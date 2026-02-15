@@ -11,3 +11,7 @@ data/
 
 .idea
 AWSCLIV2.pkg
+
+# Streamlined Development - Claude Code configuration
+# These files are synced from a private master repo
+.claude/
